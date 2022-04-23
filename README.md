@@ -90,7 +90,17 @@
 ![image](https://user-images.githubusercontent.com/49749125/164909937-5f1bdae6-e8bb-4fbb-92f6-1c8b8f111455.png)
 ![image](https://user-images.githubusercontent.com/49749125/164910376-c163ddbc-7098-4fdf-b144-3dbac6a626f2.png)
 
+### Database First İle Olusturulan Tablolarda Değişiklikler Yapmak
 
+### 1. Manuel Yol
+
+![image](https://user-images.githubusercontent.com/49749125/164911990-a3f06084-69e5-49b3-ab02-ac0f603c5ac3.png)
+![image](https://user-images.githubusercontent.com/49749125/164912036-4407992b-d9da-4953-b2e4-fbac43e8b580.png)
+![image](https://user-images.githubusercontent.com/49749125/164912118-6a0e55e3-d9d7-4450-8cf2-6073c9b23e03.png)
+![image](https://user-images.githubusercontent.com/49749125/164912239-1b3f303f-0ca2-4ec2-a0bd-739aa844dd52.png)
+
+
+### 2. Scaffolding ile
 
 
 `` 
