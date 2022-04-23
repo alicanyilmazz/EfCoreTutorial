@@ -30,4 +30,10 @@
 
 > #### CodeFirst de ise `Migration` toolu ve komutları ile kodda ile olusturdugumuz class lara karsılık gelen Database tablolarını otomatik olarak olusturacagız.
 
+##  `DatabaseFirst` 
+
+![image](https://user-images.githubusercontent.com/49749125/164890392-425b0a88-15ba-46d2-af57-68da7b1fdcc5.png)
+![image](https://user-images.githubusercontent.com/49749125/164890507-3c57d175-7f8b-47d4-8b50-94443feabb1e.png)
+
+
 `` 
