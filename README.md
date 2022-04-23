@@ -56,4 +56,17 @@
 
 > #### ÖNEMLİ : Artık Product class ına Entity diyebiliriz zira AppContext içerisinde DbSet<> ile Product class ını kullanarak bir prop tanımladım yani artık bu Database de bir tabloya karsılık geliyor demektir ki o zaman bu bir Entity dir diyebiliriz.
 
+![image](https://user-images.githubusercontent.com/49749125/164893564-4bd7d2ad-7a55-425f-b9f7-94946208374f.png)
+
+![image](https://user-images.githubusercontent.com/49749125/164893627-7c276870-43cc-435f-ba4e-9f8c303d079e.png)
+
+![image](https://user-images.githubusercontent.com/49749125/164893678-7f25f5d1-b780-40b8-a3c1-1cb200feea0c.png)
+![image](https://user-images.githubusercontent.com/49749125/164893725-ec83e984-e0b9-4f49-8cb3-64d8e17b0750.png)
+![image](https://user-images.githubusercontent.com/49749125/164893765-00a72694-5f16-4427-8921-1f66c4cb54fa.png)
+![image](https://user-images.githubusercontent.com/49749125/164893819-bcbb879b-df54-447e-b35b-0b1ef5a381e6.png)
+![image](https://user-images.githubusercontent.com/49749125/164893956-d2110c44-29c1-42ce-b8c3-ee0f9ad51670.png)
+
+
+
+
 `` 
