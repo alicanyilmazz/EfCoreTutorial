@@ -40,5 +40,10 @@
 ![image](https://user-images.githubusercontent.com/49749125/164891016-b6709eba-a086-4bc3-9b96-1daa102b0542.png)
 ![image](https://user-images.githubusercontent.com/49749125/164891128-d6eb086a-e28a-4ce3-a031-d634591e1d67.png)
 
+> #### `DAL` adında bir Folder olusturalım. İlk olarak bir `DbContext` sınıfı olusturacagız. 
+
+> #### Normalde `EFCore` library sinden gelen bir `DbContext` sınıfımız var bizim olusturacagımız class ondan inheritance alacak. 
+
+> #### `DbContext` reserved keyword oldugundan biz kendi DbContext sınıfımıza bundan farklı bir isimlendirme yapalım. `AppDbContext` diyelim.
 
 `` 
