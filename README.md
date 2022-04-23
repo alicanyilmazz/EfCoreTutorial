@@ -35,5 +35,10 @@
 ![image](https://user-images.githubusercontent.com/49749125/164890392-425b0a88-15ba-46d2-af57-68da7b1fdcc5.png)
 ![image](https://user-images.githubusercontent.com/49749125/164890507-3c57d175-7f8b-47d4-8b50-94443feabb1e.png)
 
+> #### Database tablomuzu olusturalım.
+
+![image](https://user-images.githubusercontent.com/49749125/164891016-b6709eba-a086-4bc3-9b96-1daa102b0542.png)
+![image](https://user-images.githubusercontent.com/49749125/164891128-d6eb086a-e28a-4ce3-a031-d634591e1d67.png)
+
 
 `` 
