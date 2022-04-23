@@ -8,7 +8,7 @@
 ![image](https://user-images.githubusercontent.com/49749125/164887292-8a0de8b8-3a0a-4a69-a4b1-21f21f53c01b.png)
 ![image](https://user-images.githubusercontent.com/49749125/164887314-a3b6a5dc-a5da-4cdc-a09b-d91e9bf5f48b.png)
 
-> ### Not : Yukardaki ilk 5 i Relational Database ' dir. Siz EF Core ile örneğin bir NoSql bir DB ye bağlantı sağlayamazsınız. Çünkü EF Core Relational olmayan Database ler ile bir bağlantısı yok. 
+> #### Not : Yukardaki ilk 5 i Relational Database ' dir. Siz EF Core ile örneğin bir NoSql bir DB ye bağlantı sağlayamazsınız. Çünkü EF Core Relational olmayan Database ler ile bir bağlantısı yok. 
 
 > Örn MongoDB yi EF Core ile kullanamazsınız. Bu noktada bir MongoDB ye bağlanmak istediğinizde MongoDB nin .Net için yazılmış olan library lerini kullanıyoruz.
 
