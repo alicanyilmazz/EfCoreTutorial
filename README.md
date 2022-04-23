@@ -46,4 +46,13 @@
 
 > #### `DbContext` reserved keyword oldugundan biz kendi DbContext sınıfımıza bundan farklı bir isimlendirme yapalım. `AppDbContext` diyelim.
 
+![image](https://user-images.githubusercontent.com/49749125/164891911-30e3e4fa-592d-4546-a426-e2966ab4b164.png)
+
+> #### Kısaca DbSet deki props name ile veritabanındaki table name aynı ise EF Core otomatik olarak bunları eşleştirir.
+
+> #### Eğer farklı isimler ise onun içinse yapılacak configurationları birazdan anlatacağız.
+
+![image](https://user-images.githubusercontent.com/49749125/164892063-e12ffacd-5dfe-46f6-a4fe-52b328796d69.png)
+
+
 `` 
