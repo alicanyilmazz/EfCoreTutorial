@@ -103,6 +103,8 @@
 ### 2. Scaffolding ile
 
 ![image](https://user-images.githubusercontent.com/49749125/164912571-5b118e91-b782-4fc1-9e00-a3933435f874.png)
+![image](https://user-images.githubusercontent.com/49749125/164971353-ab04288d-2bb4-4d5f-82bf-1ec21c9c09a1.png)
+![image](https://user-images.githubusercontent.com/49749125/164971550-b1902c24-7906-4ad8-954d-ebc30f2a3bb2.png)
 
 
 `` 
