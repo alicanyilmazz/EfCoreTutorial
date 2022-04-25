@@ -142,6 +142,14 @@
 ![image](https://user-images.githubusercontent.com/49749125/164984056-a9497303-40f9-413a-bd2c-c818e2c1fb29.png)
 ![image](https://user-images.githubusercontent.com/49749125/164985681-1c768e0f-375a-4624-9094-faf0d6a07d54.png)
 
+### `Senaryo 1` --> `Hatalı bir migration olusturdum bunu 'update-database' komutu ile db ye yansıtmadan farkettim bu migration ı nasıl geri kaldırırım?`
+![image](https://user-images.githubusercontent.com/49749125/165047750-958d1e66-2316-4f5d-8d6a-5613869ed571.png)
+![image](https://user-images.githubusercontent.com/49749125/165047986-81f7f06e-3326-4daf-a859-2405b2d54dcc.png)
+![image](https://user-images.githubusercontent.com/49749125/165048420-46bf9f35-a5b6-40d2-8529-58ae0dce01b9.png)
+![image](https://user-images.githubusercontent.com/49749125/165049230-9f53462b-a964-4c90-9a39-cee1710acf7c.png)
+![image](https://user-images.githubusercontent.com/49749125/165049546-6a5ae4d3-a977-4b90-86e8-899ffaec6ac2.png)
 
+
+### `Senaryo 2` --> `Hatalı bir migration olusturdum bunu 'update-database' komutu ile db ye yansıttım ve sonra farkettim bu migration ı nasıl geri kaldırırım?`
 
 `` 
