@@ -153,6 +153,10 @@
 #### `Senaryo 2` --> `Hatalı bir migration olusturdum bunu 'update-database' komutu ile db ye yansıttım ve sonra farkettim bu migration ı nasıl geri kaldırırım?`
 ![image](https://user-images.githubusercontent.com/49749125/165057455-f40dfb3a-ae54-489b-8dc6-f715d31f608d.png)
 ![image](https://user-images.githubusercontent.com/49749125/165057651-5b0f7180-030c-451e-9c72-b87bd0bd40f0.png)
+![image](https://user-images.githubusercontent.com/49749125/165059682-70ec984d-f6ac-4c79-9c0f-4ec38889ae0b.png)
+![image](https://user-images.githubusercontent.com/49749125/165059879-bfcfe082-58f3-4732-9fe0-a8c6c218553a.png)
+![image](https://user-images.githubusercontent.com/49749125/165060849-fa307002-c25f-4ab1-b22c-2e643e5ba1d7.png)
+![image](https://user-images.githubusercontent.com/49749125/165062545-7beb7222-b57e-4869-8a2c-d4c3c76c6f2a.png)
 
 
 
