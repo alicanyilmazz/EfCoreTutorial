@@ -163,5 +163,8 @@
 #### `Script Migration`
 ![image](https://user-images.githubusercontent.com/49749125/165067039-08ec85a4-46de-49f2-a07b-fc111b9c08c8.png)
 
+### `EntityFrameworkCore 2. Kısım`
+
+
 
 `` 
