@@ -165,6 +165,7 @@
 
 ### `EntityFrameworkCore 2. Kısım`
 
+![image](https://user-images.githubusercontent.com/49749125/166102349-e23f3d31-7125-4a24-8cfb-25fdc4c2bc0c.png)
 
 
 `` 
