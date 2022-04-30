@@ -1,9 +1,9 @@
-﻿using EfCoreTutorial.DBFirst.DAL;
+﻿using EfCoreTutorial.CodeFirst.DAL;
 using Microsoft.EntityFrameworkCore;
 
-DbContextInitializer.Build(); 
+Initializer.Build();
 
-using (var context = new AppDbContext(DbContextInitializer.optionsBuilder.Options))
+using (var context = new AppDbContext())
 {
     var products = await context.Products.ToListAsync();
     products.ForEach(p =>

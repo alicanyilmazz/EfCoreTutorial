@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32314.265
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfCoreTutorial", "EfCoreTutorial\EfCoreTutorial.csproj", "{CEA53742-6F2B-4AF3-820A-2EE1C037FFF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EfCoreTutorial", "EfCoreTutorial\EfCoreTutorial.csproj", "{CEA53742-6F2B-4AF3-820A-2EE1C037FFF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfCoreTutorial.DBFirst", "EfCoreTutorial.DBFirst\EfCoreTutorial.DBFirst.csproj", "{0A6B0D71-3E84-4976-A7CB-82374884DE7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EfCoreTutorial.DBFirst", "EfCoreTutorial.DBFirst\EfCoreTutorial.DBFirst.csproj", "{0A6B0D71-3E84-4976-A7CB-82374884DE7C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EfCoreTutorial.DBFirst.ByScaffolding", "EfCoreTutorial.DBFirst.ByScaffolding\EfCoreTutorial.DBFirst.ByScaffolding.csproj", "{F3E79176-7F9C-41F4-B51D-B15D24895FE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfCoreTutorial.CodeFirst", "EfCoreTutorial.CodeFirst\EfCoreTutorial.CodeFirst.csproj", "{9F8C698B-D09C-415C-B8C9-6CD2ECC0F3F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{0A6B0D71-3E84-4976-A7CB-82374884DE7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A6B0D71-3E84-4976-A7CB-82374884DE7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A6B0D71-3E84-4976-A7CB-82374884DE7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3E79176-7F9C-41F4-B51D-B15D24895FE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3E79176-7F9C-41F4-B51D-B15D24895FE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3E79176-7F9C-41F4-B51D-B15D24895FE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3E79176-7F9C-41F4-B51D-B15D24895FE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F8C698B-D09C-415C-B8C9-6CD2ECC0F3F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F8C698B-D09C-415C-B8C9-6CD2ECC0F3F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F8C698B-D09C-415C-B8C9-6CD2ECC0F3F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F8C698B-D09C-415C-B8C9-6CD2ECC0F3F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
