@@ -165,6 +165,8 @@
 
 ### `EntityFrameworkCore 2. Kısım`
 
+### `DbContext`
+
 ![image](https://user-images.githubusercontent.com/49749125/166102349-e23f3d31-7125-4a24-8cfb-25fdc4c2bc0c.png)
 ![image](https://user-images.githubusercontent.com/49749125/166102721-6964368e-988b-4061-8dca-161f44349044.png)
 ![image](https://user-images.githubusercontent.com/49749125/166102966-d43c29bb-2605-4aa4-b4b9-2ab9f935508d.png)
@@ -187,6 +189,10 @@
 ![image](https://user-images.githubusercontent.com/49749125/166487186-5434050f-367d-4225-912c-87d63fffa453.png)
 ![image](https://user-images.githubusercontent.com/49749125/166487694-fbfe9d32-1c2c-4b49-8228-55287d031c6c.png)
 ![image](https://user-images.githubusercontent.com/49749125/166492228-689d6da8-b2e4-47af-b2d6-925bca4c297a.png)
+
+### `DbSet`
+
+![image](https://user-images.githubusercontent.com/49749125/166492644-c1981a62-a5d3-4080-9542-bee9297849ed.png)
 
 
 `` 
