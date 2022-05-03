@@ -17,5 +17,20 @@ namespace EfCoreTutorial.CodeFirst.DAL
             Initializer.Build();
             optionsBuilder.UseSqlServer(Initializer.Configuration.GetConnectionString("SqlConnection"));
         }
+
+        public override int SaveChanges()
+        {
+            ChangeTracker.Entries().ToList().ForEach(e =>
+            {
+                if (e.Entity is Product product)
+                {
+                    if (e.State == EntityState.Added)
+                    {
+                        product.CreatedDate = DateTime.Now;
+                    }
+                }
+            });
+            return base.SaveChanges();
+        }
     }
 }
