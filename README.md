@@ -165,11 +165,35 @@
 
 ### `EntityFrameworkCore 2. Kısım`
 
+### `DbContext`
+
 ![image](https://user-images.githubusercontent.com/49749125/166102349-e23f3d31-7125-4a24-8cfb-25fdc4c2bc0c.png)
 ![image](https://user-images.githubusercontent.com/49749125/166102721-6964368e-988b-4061-8dca-161f44349044.png)
 ![image](https://user-images.githubusercontent.com/49749125/166102966-d43c29bb-2605-4aa4-b4b9-2ab9f935508d.png)
 ![image](https://user-images.githubusercontent.com/49749125/166103841-993af861-bafb-4d9c-921d-5d5e1b93bb0c.png)
 ![image](https://user-images.githubusercontent.com/49749125/166103916-2dcc55f8-dc2b-4059-b321-549be605bb4e.png)
+![image](https://user-images.githubusercontent.com/49749125/166105341-9b1d49d7-ed9e-4289-a422-e060e29be4df.png)
+![image](https://user-images.githubusercontent.com/49749125/166105632-f0d5515f-6d1f-4695-93d5-617448e4b2fd.png)
+![image](https://user-images.githubusercontent.com/49749125/166106512-2f71f8be-5bc1-49c9-8b2a-0a7202d8cc19.png)
+![image](https://user-images.githubusercontent.com/49749125/166106633-8b4aca95-a5df-4d69-a501-cb2e7a0a40bf.png)
+![image](https://user-images.githubusercontent.com/49749125/166107764-e63d568e-7f0c-4b93-97d5-ba042d7e175d.png)
+![image](https://user-images.githubusercontent.com/49749125/166108483-22429d45-8c8e-43e6-a4ad-986986252e7e.png)
+![image](https://user-images.githubusercontent.com/49749125/166108792-0783bff4-6142-4c03-b4a9-c67ab37597f9.png)
+![image](https://user-images.githubusercontent.com/49749125/166109910-7024b413-08bf-457a-bd3a-8a14e24f4c81.png)
+![image](https://user-images.githubusercontent.com/49749125/166110373-7918ee41-a9f1-4b6d-8d3a-70ac30da88cb.png)
+![image](https://user-images.githubusercontent.com/49749125/166436070-df20cd2a-c8b2-4ea6-b37d-1728e815fd94.png)
+![image](https://user-images.githubusercontent.com/49749125/166440164-6b176335-b20c-4155-b521-6d3fd91c92c5.png)
+![image](https://user-images.githubusercontent.com/49749125/166442122-c3749673-e542-4bdb-a9b1-7d20bca45f83.png)
+![image](https://user-images.githubusercontent.com/49749125/166442871-65fc0593-cfe8-4bb6-b03a-614f53d7951c.png)
+![image](https://user-images.githubusercontent.com/49749125/166446033-c0d7dc2f-bb50-4d2a-bf38-0a9644fc4ece.png)
+![image](https://user-images.githubusercontent.com/49749125/166487186-5434050f-367d-4225-912c-87d63fffa453.png)
+![image](https://user-images.githubusercontent.com/49749125/166487694-fbfe9d32-1c2c-4b49-8228-55287d031c6c.png)
+![image](https://user-images.githubusercontent.com/49749125/166492228-689d6da8-b2e4-47af-b2d6-925bca4c297a.png)
+
+### `DbSet`
+
+![image](https://user-images.githubusercontent.com/49749125/166492644-c1981a62-a5d3-4080-9542-bee9297849ed.png)
+![image](https://user-images.githubusercontent.com/49749125/166500415-ec90e8ee-15b9-456f-958f-46587b5afd76.png)
 
 
 `` 
