@@ -19,5 +19,7 @@ using (var context = new AppDbContext())
     var productx3 = context.Products.FindAsync(10,36); // normalde tek parametre veririrz oda PRIMARYKEY olmalı ama tablo yapımızda birden fazla column
                                                        // primarykey ise o zaman bunları virgülle sıra ile veirirz ve ona göre datayı getirir.
 
+    var productx4 = context.Products.FindAsync(10);
+
     context.SaveChanges();
 }
