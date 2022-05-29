@@ -194,6 +194,10 @@
 
 ![image](https://user-images.githubusercontent.com/49749125/166492644-c1981a62-a5d3-4080-9542-bee9297849ed.png)
 ![image](https://user-images.githubusercontent.com/49749125/166500415-ec90e8ee-15b9-456f-958f-46587b5afd76.png)
+![image](https://user-images.githubusercontent.com/49749125/169710643-114295b5-60ac-432d-99f5-0483f19750cd.png)
+
+### `Configuration - 1`
+![image](https://user-images.githubusercontent.com/49749125/169712242-dc16bef9-a7d5-4d8d-a540-f94fc34508d3.png)
 
 
 `` 
