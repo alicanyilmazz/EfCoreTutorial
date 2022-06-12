@@ -14,19 +14,9 @@ namespace EfCoreTutorial.CodeFirst.ConfigurationFirstSection.DAL
             optionsBuilder.UseSqlServer(Initializer.Configuration.GetConnectionString("SqlConnection"));
         }
 
-        public override int SaveChanges()
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            ChangeTracker.Entries().ToList().ForEach(e =>
-            {
-                if (e.Entity is Product product)
-                {
-                    if (e.State == EntityState.Added)
-                    {
-                        product.CreatedDate = DateTime.Now;
-                    }
-                }
-            });
-            return base.SaveChanges();
+            base.OnModelCreating(modelBuilder);
         }
     }
 }
