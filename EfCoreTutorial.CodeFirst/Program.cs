@@ -5,7 +5,7 @@ Initializer.Build();
 
 using (var context = new AppDbContext())
 {
-
+    /*
     var product = context.Products.First(x=>x.Id == 4); // Id si 4 olan datayı getirir yoksa Exception fırlatır.
     var product2 = context.Products.FirstOrDefault(x => x.Id == 4); // Id si 4 olan datayı getirir yoksa geriye null döndürür.
     var product3 = context.Products.FirstOrDefault(x => x.Id == 4,new Product() { Id = 2 , Barcode = 2 , Name = "Rsa" , Price = 1 , Stock = 1}); // Id si 4 olan datayı getirir yoksa 2.parametre ile verdiğimiz objeyi(Product nesnesini döndürür.)
@@ -22,4 +22,5 @@ using (var context = new AppDbContext())
     var productx4 = context.Products.FindAsync(10);
 
     context.SaveChanges();
+    */
 }
