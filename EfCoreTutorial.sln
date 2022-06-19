@@ -15,11 +15,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfCoreTutorial.CodeFirst.Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnetoManyRelationShip", "OnetoManyRelationShip\OnetoManyRelationShip.csproj", "{676BDC63-2718-4DC9-9527-6280A1D13156}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnetoOneRelationShip1", "OnetoOneRelationShip1\OnetoOneRelationShip1.csproj", "{33F1DA30-176D-4022-8D29-992C451BFBEC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnetoOneRelationShipClassicWithFluentAPI", "OnetoOneRelationShip1\OnetoOneRelationShipClassicWithFluentAPI.csproj", "{33F1DA30-176D-4022-8D29-992C451BFBEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnetoOneRelationShip2", "OnetoOneRelationShip2\OnetoOneRelationShip2.csproj", "{C6528C07-81D1-4841-BAA6-1D2AFEB551BA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnetoOneRelationShipBestPracticeWithFluentAPI", "OnetoOneRelationShip2\OnetoOneRelationShipBestPracticeWithFluentAPI.csproj", "{C6528C07-81D1-4841-BAA6-1D2AFEB551BA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManytoManyRelationShip", "ManytoManyRelationShip\ManytoManyRelationShip.csproj", "{C97DDF7D-380D-4E53-9D0F-766F4F0AE36E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnetoOneRelationShipBestPracticeWithDataAnnotation", "OnetoOneRelationShipBestPracticeWithDataAnnotation\OnetoOneRelationShipBestPracticeWithDataAnnotation.csproj", "{6E63B1C6-5041-47E2-91C9-07946BC6CD00}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{C97DDF7D-380D-4E53-9D0F-766F4F0AE36E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C97DDF7D-380D-4E53-9D0F-766F4F0AE36E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C97DDF7D-380D-4E53-9D0F-766F4F0AE36E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E63B1C6-5041-47E2-91C9-07946BC6CD00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E63B1C6-5041-47E2-91C9-07946BC6CD00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E63B1C6-5041-47E2-91C9-07946BC6CD00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E63B1C6-5041-47E2-91C9-07946BC6CD00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
