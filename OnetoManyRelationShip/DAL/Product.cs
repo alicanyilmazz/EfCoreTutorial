@@ -14,5 +14,6 @@ namespace OnetoManyRelationShip.DAL
         public int Stock { get; set; }
         public int Barcode { get; set; }
         public int CategoryId { get; set; }
+        public Category Category { get; set; }
     }
 }
