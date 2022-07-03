@@ -23,6 +23,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManytoManyRelationShip", "M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnetoOneRelationShipBestPracticeWithDataAnnotation", "OnetoOneRelationShipBestPracticeWithDataAnnotation\OnetoOneRelationShipBestPracticeWithDataAnnotation.csproj", "{6E63B1C6-5041-47E2-91C9-07946BC6CD00}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManytoManyRelationShipWithFluentAPI", "ManytoManyRelationShipWithFluentAPI\ManytoManyRelationShipWithFluentAPI.csproj", "{C97566C9-6CB8-4266-ACDD-745EBE7EF42A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnetoManyDataInsert", "OnetoManyDataInsert\OnetoManyDataInsert.csproj", "{C413B2F8-375C-45C9-95E3-113F66D65CE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnetoOneDataInsert", "OnetoOneDataInsert\OnetoOneDataInsert.csproj", "{5C609E47-8A3F-4711-ADC2-D1060615C14E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManytoManyDataInsert", "ManytoManyDataInsert\ManytoManyDataInsert.csproj", "{12F080D5-2402-4327-8E7A-B73CC222CC73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +77,22 @@ Global
 		{6E63B1C6-5041-47E2-91C9-07946BC6CD00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E63B1C6-5041-47E2-91C9-07946BC6CD00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E63B1C6-5041-47E2-91C9-07946BC6CD00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C97566C9-6CB8-4266-ACDD-745EBE7EF42A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C97566C9-6CB8-4266-ACDD-745EBE7EF42A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C97566C9-6CB8-4266-ACDD-745EBE7EF42A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C97566C9-6CB8-4266-ACDD-745EBE7EF42A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C413B2F8-375C-45C9-95E3-113F66D65CE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C413B2F8-375C-45C9-95E3-113F66D65CE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C413B2F8-375C-45C9-95E3-113F66D65CE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C413B2F8-375C-45C9-95E3-113F66D65CE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C609E47-8A3F-4711-ADC2-D1060615C14E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C609E47-8A3F-4711-ADC2-D1060615C14E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C609E47-8A3F-4711-ADC2-D1060615C14E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C609E47-8A3F-4711-ADC2-D1060615C14E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12F080D5-2402-4327-8E7A-B73CC222CC73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12F080D5-2402-4327-8E7A-B73CC222CC73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12F080D5-2402-4327-8E7A-B73CC222CC73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12F080D5-2402-4327-8E7A-B73CC222CC73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
