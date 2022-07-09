@@ -11,25 +11,37 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EfCoreTutorial.DBFirst.BySc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EfCoreTutorial.CodeFirst", "EfCoreTutorial.CodeFirst\EfCoreTutorial.CodeFirst.csproj", "{9F8C698B-D09C-415C-B8C9-6CD2ECC0F3F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfCoreTutorial.CodeFirst.ConfigurationFirstSection", "EfCoreTutorial.CodeFirst.ConfigurationFirstSection\EfCoreTutorial.CodeFirst.ConfigurationFirstSection.csproj", "{E1E8AE20-BCDF-4F47-889C-D109DBEE924B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EfCoreTutorial.CodeFirst.ConfigurationFirstSection", "EfCoreTutorial.CodeFirst.ConfigurationFirstSection\EfCoreTutorial.CodeFirst.ConfigurationFirstSection.csproj", "{E1E8AE20-BCDF-4F47-889C-D109DBEE924B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnetoManyRelationShip", "OnetoManyRelationShip\OnetoManyRelationShip.csproj", "{676BDC63-2718-4DC9-9527-6280A1D13156}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnetoManyRelationShip", "OnetoManyRelationShip\OnetoManyRelationShip.csproj", "{676BDC63-2718-4DC9-9527-6280A1D13156}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnetoOneRelationShipClassicWithFluentAPI", "OnetoOneRelationShip1\OnetoOneRelationShipClassicWithFluentAPI.csproj", "{33F1DA30-176D-4022-8D29-992C451BFBEC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnetoOneRelationShipClassicWithFluentAPI", "OnetoOneRelationShip1\OnetoOneRelationShipClassicWithFluentAPI.csproj", "{33F1DA30-176D-4022-8D29-992C451BFBEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnetoOneRelationShipBestPracticeWithFluentAPI", "OnetoOneRelationShip2\OnetoOneRelationShipBestPracticeWithFluentAPI.csproj", "{C6528C07-81D1-4841-BAA6-1D2AFEB551BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnetoOneRelationShipBestPracticeWithFluentAPI", "OnetoOneRelationShip2\OnetoOneRelationShipBestPracticeWithFluentAPI.csproj", "{C6528C07-81D1-4841-BAA6-1D2AFEB551BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManytoManyRelationShip", "ManytoManyRelationShip\ManytoManyRelationShip.csproj", "{C97DDF7D-380D-4E53-9D0F-766F4F0AE36E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ManytoManyRelationShip", "ManytoManyRelationShip\ManytoManyRelationShip.csproj", "{C97DDF7D-380D-4E53-9D0F-766F4F0AE36E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnetoOneRelationShipBestPracticeWithDataAnnotation", "OnetoOneRelationShipBestPracticeWithDataAnnotation\OnetoOneRelationShipBestPracticeWithDataAnnotation.csproj", "{6E63B1C6-5041-47E2-91C9-07946BC6CD00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnetoOneRelationShipBestPracticeWithDataAnnotation", "OnetoOneRelationShipBestPracticeWithDataAnnotation\OnetoOneRelationShipBestPracticeWithDataAnnotation.csproj", "{6E63B1C6-5041-47E2-91C9-07946BC6CD00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManytoManyRelationShipWithFluentAPI", "ManytoManyRelationShipWithFluentAPI\ManytoManyRelationShipWithFluentAPI.csproj", "{C97566C9-6CB8-4266-ACDD-745EBE7EF42A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ManytoManyRelationShipWithFluentAPI", "ManytoManyRelationShipWithFluentAPI\ManytoManyRelationShipWithFluentAPI.csproj", "{C97566C9-6CB8-4266-ACDD-745EBE7EF42A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnetoManyDataInsert", "OnetoManyDataInsert\OnetoManyDataInsert.csproj", "{C413B2F8-375C-45C9-95E3-113F66D65CE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnetoManyDataInsert", "OnetoManyDataInsert\OnetoManyDataInsert.csproj", "{C413B2F8-375C-45C9-95E3-113F66D65CE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnetoOneDataInsert", "OnetoOneDataInsert\OnetoOneDataInsert.csproj", "{5C609E47-8A3F-4711-ADC2-D1060615C14E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnetoOneDataInsert", "OnetoOneDataInsert\OnetoOneDataInsert.csproj", "{5C609E47-8A3F-4711-ADC2-D1060615C14E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManytoManyDataInsert", "ManytoManyDataInsert\ManytoManyDataInsert.csproj", "{12F080D5-2402-4327-8E7A-B73CC222CC73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ManytoManyDataInsert", "ManytoManyDataInsert\ManytoManyDataInsert.csproj", "{12F080D5-2402-4327-8E7A-B73CC222CC73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EagerLoading", "EagerLoading\EagerLoading.csproj", "{2C361D43-BDD3-482D-A581-F5F138C1AA18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExplicitLoading", "ExplicitLoading\ExplicitLoading.csproj", "{76298025-D2E4-4071-894B-FB9DC1BE6941}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LazyLoading", "LazyLoading\LazyLoading.csproj", "{34010410-4883-469C-A0D9-0C685214C3E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance.TablePerHierarchy", "Inheritance.TablePerHierarchy\Inheritance.TablePerHierarchy.csproj", "{30034FF0-F4BF-4267-B82A-1BD0EE48D9B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance.TablePerType", "Inheritance.TablePerType\Inheritance.TablePerType.csproj", "{1B8845C9-58AA-4D13-B09C-A396A8403203}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance.TablePerHierarchy.II", "Inheritance.TablePerHierarchy.II\Inheritance.TablePerHierarchy.II.csproj", "{3EB54829-A13E-4C1A-A4CC-B8F1B06FD636}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +105,30 @@ Global
 		{12F080D5-2402-4327-8E7A-B73CC222CC73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12F080D5-2402-4327-8E7A-B73CC222CC73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12F080D5-2402-4327-8E7A-B73CC222CC73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C361D43-BDD3-482D-A581-F5F138C1AA18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C361D43-BDD3-482D-A581-F5F138C1AA18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C361D43-BDD3-482D-A581-F5F138C1AA18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C361D43-BDD3-482D-A581-F5F138C1AA18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76298025-D2E4-4071-894B-FB9DC1BE6941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76298025-D2E4-4071-894B-FB9DC1BE6941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76298025-D2E4-4071-894B-FB9DC1BE6941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76298025-D2E4-4071-894B-FB9DC1BE6941}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34010410-4883-469C-A0D9-0C685214C3E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34010410-4883-469C-A0D9-0C685214C3E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34010410-4883-469C-A0D9-0C685214C3E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34010410-4883-469C-A0D9-0C685214C3E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30034FF0-F4BF-4267-B82A-1BD0EE48D9B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30034FF0-F4BF-4267-B82A-1BD0EE48D9B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30034FF0-F4BF-4267-B82A-1BD0EE48D9B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30034FF0-F4BF-4267-B82A-1BD0EE48D9B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B8845C9-58AA-4D13-B09C-A396A8403203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B8845C9-58AA-4D13-B09C-A396A8403203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B8845C9-58AA-4D13-B09C-A396A8403203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B8845C9-58AA-4D13-B09C-A396A8403203}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EB54829-A13E-4C1A-A4CC-B8F1B06FD636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EB54829-A13E-4C1A-A4CC-B8F1B06FD636}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EB54829-A13E-4C1A-A4CC-B8F1B06FD636}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EB54829-A13E-4C1A-A4CC-B8F1B06FD636}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
