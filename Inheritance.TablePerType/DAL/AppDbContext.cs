@@ -8,23 +8,24 @@ using System.Threading.Tasks;
 
 namespace Inheritance.TablePerType.DAL
 {
-    public class AppDbContext : DbContext
-    {
-        //public DbSet<Product> Products { get; set; }
-        //public DbSet<ProductFeature> ProductFeature { get; set; }
-        //public DbSet<Category> Categories { get; set; }
+        public class AppDbContext : DbContext
+        {
+            public DbSet<Manager> Managers { get; set; }
+            public DbSet<Employee> Employees { get; set; }
+            public DbSet<BasePerson> BasePersons { get; set; }
 
-        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        //{
-        //    Initializer.Build();
-        //    optionsBuilder.UseSqlServer(Initializer.Configuration.GetConnectionString("SqlConnection"));
-        //}
+            protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+            {
+                Initializer.Build();
+                optionsBuilder.UseSqlServer(Initializer.Configuration.GetConnectionString("SqlConnection"));
+            }
 
-        //protected override void OnModelCreating(ModelBuilder modelBuilder)
-        //{
-        //    modelBuilder.Entity<Category>().HasMany(x => x.Products).WithOne(x => x.Category).HasForeignKey(x => x.CategoryId);
-        //    modelBuilder.Entity<Product>().HasOne(x => x.ProductFeature).WithOne(x => x.Product).HasForeignKey<ProductFeature>(x => x.Id);
-        //    base.OnModelCreating(modelBuilder);
-        //}
-    }
+            protected override void OnModelCreating(ModelBuilder modelBuilder)
+            {
+                modelBuilder.Entity<BasePerson>().ToTable("Persons");
+                modelBuilder.Entity<Employee>().ToTable("Employees");
+                modelBuilder.Entity<Manager>().ToTable("Managers");
+                base.OnModelCreating(modelBuilder);
+            }
+        }
 }
